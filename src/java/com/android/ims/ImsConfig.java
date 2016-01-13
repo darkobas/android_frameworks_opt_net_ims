@@ -387,11 +387,6 @@ public class ImsConfig {
         // PROVISIONED_CONFIG_END after that.
         public static final int PROVISIONED_CONFIG_END = VIDEO_QUALITY;
 
-        // Expand the operator config items as needed here, need to change
-        // PROVISIONED_CONFIG_END after that.
-        public static final int PROVISIONED_CONFIG_END = SMS_PSI;
-
-        // Expand the operator config items as needed here.
     }
 
     /**
